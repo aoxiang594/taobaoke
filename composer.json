@@ -1,0 +1,21 @@
+{
+    "name": "aoxiang/taobaoke",
+    "description": "Taobaoke SDK For Laravel",
+    "type": "library",
+    "require": {
+        "php": ">7.0.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Aoxiang",
+            "email": "mail@aoxiang.me"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Guanguans\\": "src/"
+        }
+    }
+}
